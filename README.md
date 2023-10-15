@@ -58,7 +58,7 @@ python emotion detector.py
 
 ## Customization
 
-You can customize the script to recognize additional emotions or improve the accuracy by modifying the emotion recognition logic in the `emotion_detection.py` file.
+You can customize the script to recognize additional emotions or improve the accuracy by modifying the emotion recognition logic in the `emotion detector.py` file.
 
 ## License
 
