@@ -37,7 +37,7 @@ git clone https://github.com/mrnithish/speech-emotion-detector.git
 2. Navigate to the project directory:
 
 ```bash
-cd emotion-detection-voice
+cd speech-emotion-detector
 ```
 
 3. Install the required libraries using `pip`:
