@@ -1,6 +1,8 @@
-# speech-emotion-detector
+# Speech-emotion-detector
 Identity emotion in out speech and classify it.
-Library : speech_recognition , SentimentIntensityAnalyzer
+## Library
+      speech_recognition
+      SentimentIntensityAnalyzer
 
 
 
