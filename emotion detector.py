@@ -10,7 +10,8 @@ with sr.Microphone() as source:
     print('Done recording...')
 try:
     print('print message..')
-    text=recognizer.recognize_google(recordedaudio,language='en-US')
+   
+ text=recognizer.recognize_google(recordedaudio,language='en-US')
     print('Message:{}'.format(text))
 except Exception as ex:
     print(ex)
