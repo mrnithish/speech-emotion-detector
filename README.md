@@ -5,7 +5,6 @@ Identity emotion in out speech and classify it.
       SentimentIntensityAnalyzer
 
 
-
 # Emotion Detection with Voice Input
 
 ## Overview
